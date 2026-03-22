@@ -41,12 +41,11 @@
 
 ---
 
-## <img width="117" height="106" alt="image" src="https://github.com/user-attachments/assets/55ec796c-cda0-40fe-8ac1-cef3bd7a3bb7" />
  Certificações
 
 <div align="center">
 
-**☁️ AWS Certified — 9**
+**☁️ AWS Certified **
 
 <a href="https://www.credly.com/earner/earned/share/03e97a5a-871d-4ec8-8f3b-977651f5a6c4"><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="90" title="Cloud Practitioner"/></a>
 <a href="https://www.credly.com/earner/earned/share/b7632d78-170b-40c4-acc2-0e5e15f9f20e"><img src="https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="90" title="AI Practitioner"/></a>
@@ -60,7 +59,7 @@
 
 <br/><br/>
 
-**🧱 Databricks Certified — 2**
+**🧱 Databricks Certified **
 
 <a href="https://credentials.databricks.com/51dc4258-cedd-478f-af97-bbed226059ed"><img src="https://lh5.googleusercontent.com/kB4rsPVfxkaqp7x8r0zfK8hj1cCj6qqD0WMvTAfmTUNGfB7iCFFSq0SA0HC8SxqarXbVphrE6gORtS18iDeuepJEDtJzGgN62fl7qvB6jnpEkmfMR8SMk4mvP5d330qUXQX3CJus_13hTko7zg" width="90" title="Databricks Data Engineer Associate"/></a>
 <a href="https://credentials.databricks.com/f6a80c87-d7a5-490a-b800-ffa57da430e3"><img src="https://www.databricks.com/sites/default/files/2025-10/professional-badge-de.png?v=1761143167" width="90" title="Databricks Data Engineer Professional"/></a>
