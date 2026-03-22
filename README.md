@@ -61,7 +61,7 @@
 
 **🧱 Databricks Certified — 2**
 
-<a href="https://credentials.databricks.com/51dc4258-cedd-478f-af97-bbed226059ed"><img src="https://pdf.ms.credential.net/v2/certificate/image?env=production&credential=6le80g0o&variant=medium" width="90" title="Databricks Data Engineer Associate"/></a>
+<a href="https://credentials.databricks.com/51dc4258-cedd-478f-af97-bbed226059ed"><img src="https://lh5.googleusercontent.com/kB4rsPVfxkaqp7x8r0zfK8hj1cCj6qqD0WMvTAfmTUNGfB7iCFFSq0SA0HC8SxqarXbVphrE6gORtS18iDeuepJEDtJzGgN62fl7qvB6jnpEkmfMR8SMk4mvP5d330qUXQX3CJus_13hTko7zg" width="90" title="Databricks Data Engineer Associate"/></a>
 <a href="https://credentials.databricks.com/f6a80c87-d7a5-490a-b800-ffa57da430e3"><img src="https://www.databricks.com/sites/default/files/2025-10/professional-badge-de.png?v=1761143167" width="90" title="Databricks Data Engineer Professional"/></a>
 
 </div>
