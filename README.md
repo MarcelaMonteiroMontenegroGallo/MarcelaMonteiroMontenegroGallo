@@ -125,7 +125,7 @@ Spill para disco:          1.8GB → 0 bytes
 ## 📝 Último artigo
 
 <!-- BLOG-POST-LIST:START -->
-- 🔥 [Como usar o MCP Server do Spark History Server para diagnosticar jobs no AWS Glue com IA](https://medium.com/@seu-usuario)
+- 🔥 [Como usar o MCP Server do Spark History Server para diagnosticar jobs no AWS Glue com IA]
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -142,7 +142,7 @@ Spill para disco:          1.8GB → 0 bytes
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=seu-usuario&color=FF6600&style=flat-square&label=visitas+no+perfil" />
+<img src="https://komarev.com/ghpvc/?username=MarcelaMonteiroMontenegroGallo&color=FF6600&style=flat-square&label=visitas+no+perfil" />
 
 </div>
 
