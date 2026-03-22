@@ -41,7 +41,8 @@
 
 ---
 
-## 🏆 Certificações
+## <img width="117" height="106" alt="image" src="https://github.com/user-attachments/assets/55ec796c-cda0-40fe-8ac1-cef3bd7a3bb7" />
+ Certificações
 
 <div align="center">
 
