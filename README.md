@@ -68,5 +68,29 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=MarcelaMonteiroMontenegroGallo&color=9B59B6&style=flat-square&label=visitas" />
 </div>
+## 🏆 Certificações
 
+<div align="center">
+
+**AWS Certified — 9 certificações**
+
+| Foundational | Associate | Professional | Specialty |
+|:---:|:---:|:---:|:---:|
+| ☁️ Cloud Practitioner | 👩‍💻 Developer | 🏛️ Solutions Architect Pro | 📊 Data Analytics |
+| 🤖 AI Practitioner | 📦 Data Engineer | | 🧠 Machine Learning |
+| | 🤖 Machine Learning Engineer | | |
+| | 🏛️ Solutions Architect Associate | | |
+
+<br/>
+
+**Databricks Certified — 2 certificações**
+
+![Databricks](https://img.shields.io/badge/Data_Engineer_Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Databricks](https://img.shields.io/badge/Data_Engineer_Professional-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
 
