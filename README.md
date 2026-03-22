@@ -1,70 +1,72 @@
-
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Arquiteta+de+Solucoes+Data+%26+AI+%F0%9F%94%A5;15%2B+anos+com+dados;AWS+%2B+Databricks+%7C+11+certificacoes+%F0%9F%8F%86;Mae%2C+atleta+e+arquiteta+%F0%9F%92%9C" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF6600&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+Engenheira+de+Dados+%F0%9F%94%A5;Apache+Spark+%2B+IA+%2B+AWS+%E2%98%81%EF%B8%8F;De+47+min+%E2%86%92+8+min+com+MCP+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelagallo/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mammgallo/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mammgallogallo6194/)
+[![Instagran](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://www.instagram.com/mammgallo/)
 
 </div>
 
 ---
 
-<div align="center">
+## 🧠 Sobre mim
 
-| 👩‍💻 | Arquiteta de Soluções de Data & AI |
-|---|---|
-| ☁️ | AWS + Databricks |
-| 🏆 | 9x AWS certified · 2x Databricks certified |
-| ⏱️ | 15+ anos com dados |
-| 💜 | Mulher em TI — com vida real acontecendo |
+```python
+"quem_sou_eu" = {
+    "f💜 Mulheres em TI — Mais que código, é resistência, evolução e conquista
 
-</div>
+A tecnologia nunca foi só sobre código.
+Sempre foi sobre resolver problemas, criar futuro e ocupar espaços.
 
----
+E nós, mulheres, estamos fazendo isso todos os dias — mesmo quando disseram que não era o nosso lugar.
 
-## 👩‍👦‍👦 Fora do trabalho
+Eu não cheguei aqui “por acaso”.
+Cheguei estudando, trabalhando, errando, aprendendo… e principalmente insistindo quando era mais fácil desistir.
 
+Ser mulher em TI é:
+
+Entrar em salas onde você precisa provar mais que os outros
+Ouvir mais do que gostaria e falar mesmo assim
+Crescer mesmo quando duvidam da sua capacidade
+
+Mas também é:
+
+Inspirar outras mulheres
+Abrir caminhos
+Transformar histórias — inclusive a sua
+
+Hoje eu trabalho com Arquitetura de Dados e IA, usando tecnologias como AWS e Databricks para resolver problemas reais em grandes empresas.
+Mas o que mais me motiva não é só a tecnologia — é o impacto que ela gera na vida das pessoas.
+
+🚀 Por que isso importa?
+
+Porque ainda somos minoria.
+Porque ainda existe dúvida onde deveria existir reconhecimento.
+Porque ainda existem meninas achando que “isso não é pra elas”.
+
+E é exatamente por isso que a gente continua.
+
+🌱 Para quem está começando
+
+Se você está pensando em entrar na área:
+
+Você não precisa saber tudo.
+Você não precisa ser perfeita.
+Você só precisa começar.
+
+A tecnologia tem espaço pra você.
+E o mundo precisa da sua visão.
+
+✨ Meu compromisso
+
+Compartilhar conhecimento
+Ajudar quem está começando
+E mostrar, na prática, que é possível"
+}
 ```
-👩‍👦‍👦  Mae de dois filhos (um autista 💙)
-🌱  Mae de plantas (algumas sobrevivem 😅)
-🐶  Mae de pet
-🏋️‍♀️  Academia pra descarregar o stress
-```
-
-> *"Nao e so sobre tecnologia — e sobre dar conta da vida inteira e ainda evoluir."*
-> **E a gente vence. Todos os dias. 💪**
-
----
-
- Certificações
-
-<div align="center">
-
-**☁️ AWS Certified **
-
-<a href="https://www.credly.com/earner/earned/share/03e97a5a-871d-4ec8-8f3b-977651f5a6c4"><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="90" title="Cloud Practitioner"/></a>
-<a href="https://www.credly.com/earner/earned/share/b7632d78-170b-40c4-acc2-0e5e15f9f20e"><img src="https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="90" title="AI Practitioner"/></a>
-<a href="https://www.credly.com/earner/earned/share/b50ea818-15a6-4725-b363-b832380eb701"><img src="https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="90" title="Developer Associate"/></a>
-<a href="https://www.credly.com/earner/earned/share/c3ce8232-4b16-4212-9b41-8d3c27a605ba"><img src="https://images.credly.com/size/110x110/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" width="90" title="Data Engineer Associate"/></a>
-<a href="https://www.credly.com/earner/earned/share/39e2931e-e0b9-4ad3-b9ef-434453c88119"><img src="https://images.credly.com/size/110x110/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" width="90" title="Machine Learning Engineer Associate"/></a>
-<a href="https://www.credly.com/earner/earned/share/5412d893-078d-40a9-ad5d-df58573a3f42"><img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="90" title="Solutions Architect Associate"/></a>
-<a href="https://www.credly.com/earner/earned/share/e1733fe8-b9ff-4eee-aa02-5e7896e6e41f"><img src="https://images.credly.com/size/110x110/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="90" title="Solutions Architect Professional"/></a>
-<a href="https://www.credly.com/earner/earned/share/e06be73d-3d43-46f1-911d-9e0bd747ce84"><img src="https://images.credly.com/size/340x340/images/6430efe4-0ac0-4df6-8f1b-9559d8fcdf27/image.png" width="90" title="Data Analytics Specialty"/></a>
-<a href="https://www.credly.com/earner/earned/share/74d61a01-3cbe-4386-b21e-92a2ce771a6d"><img src="https://images.credly.com/size/110x110/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" width="90" title="Machine Learning Specialty"/></a>
-
-<br/><br/>
-
-**🧱 Databricks Certified **
-
-<a href="https://credentials.databricks.com/51dc4258-cedd-478f-af97-bbed226059ed"><img src="https://lh5.googleusercontent.com/kB4rsPVfxkaqp7x8r0zfK8hj1cCj6qqD0WMvTAfmTUNGfB7iCFFSq0SA0HC8SxqarXbVphrE6gORtS18iDeuepJEDtJzGgN62fl7qvB6jnpEkmfMR8SMk4mvP5d330qUXQX3CJus_13hTko7zg" width="90" title="Databricks Data Engineer Associate"/></a>
-<a href="https://credentials.databricks.com/f6a80c87-d7a5-490a-b800-ffa57da430e3"><img src="https://www.databricks.com/sites/default/files/2025-10/professional-badge-de.png?v=1761143167" width="90" title="Databricks Data Engineer Professional"/></a>
-
-</div>
 
 ---
 
@@ -72,14 +74,34 @@
 
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon EMR](https://img.shields.io/badge/Amazon%20EMR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🔥 [Spark Tuning com IA + MCP](https://github.com/seu-usuario/aula-spark-tuning)
+> De **47 minutos → 8 minutos** usando Apache Spark + MCP Server + Kiro
+
+Diagnóstico de jobs Spark com IA em português. Sem navegar horas no Spark UI.
+
+```
+Problema identificado em: < 30 segundos
+Redução de shuffle:        8.2GB → 0.3GB  (96% menos)
+Spill para disco:          1.8GB → 0 bytes
+```
+
+### 🗣️ [Text to SQL com LLMs](https://github.com/seu-usuario/aula-text-to-sql)
+> Transformando perguntas em português em queries SQL com modelos de linguagem
 
 ---
 
@@ -87,13 +109,39 @@
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=MarcelaMonteiroMontenegroGallo&show_icons=true&theme=tokyonight&title_color=9B59B6&icon_color=FF9900&hide_border=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelaMonteiroMontenegroGallo&layout=compact&theme=tokyonight&title_color=9B59B6&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark&bg_color=0a0a0f&title_color=FF6600&icon_color=39ff14&text_color=ffffff&border_color=333" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark&bg_color=0a0a0f&title_color=FF6600&text_color=ffffff&border_color=333" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=seu-usuario&theme=dark&background=0a0a0f&ring=FF6600&fire=FF6600&currStreakLabel=39ff14&border=333)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📝 Último artigo
+
+<!-- BLOG-POST-LIST:START -->
+- 🔥 [Como usar o MCP Server do Spark History Server para diagnosticar jobs no AWS Glue com IA](https://medium.com/@seu-usuario)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 💬 Frase da semana
+
+<div align="center">
+
+> *"Você não precisa ser especialista em Spark internals para diagnosticar problemas — só precisa fazer a pergunta certa."*
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=MarcelaMonteiroMontenegroGallo&color=9B59B6&style=flat-square&label=visitas" />
+
+<img src="https://komarev.com/ghpvc/?username=seu-usuario&color=FF6600&style=flat-square&label=visitas+no+perfil" />
+
 </div>
