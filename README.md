@@ -4,9 +4,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@seu-canal)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelagallo/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mammgallogallo6194/)
+[![Instagran](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://www.instagram.com/mammgallo/)
 
 </div>
 
@@ -15,12 +15,56 @@
 ## 🧠 Sobre mim
 
 ```python
-engenheira = {
-    "foco":        ["Apache Spark", "AWS", "IA aplicada a dados"],
-    "atualmente":  "transformando jobs de 47min em 8min com MCP 🔥",
-    "aprendendo":  ["LLMs para dados", "Spark Tuning avançado"],
-    "pergunta_me_sobre": ["Glue", "EMR", "otimização de pipelines"],
-    "curiosidade": "debugo Spark conversando com IA em português 🤖"
+"quem_sou_eu" = {
+    "f💜 Mulheres em TI — Mais que código, é resistência, evolução e conquista
+
+A tecnologia nunca foi só sobre código.
+Sempre foi sobre resolver problemas, criar futuro e ocupar espaços.
+
+E nós, mulheres, estamos fazendo isso todos os dias — mesmo quando disseram que não era o nosso lugar.
+
+Eu não cheguei aqui “por acaso”.
+Cheguei estudando, trabalhando, errando, aprendendo… e principalmente insistindo quando era mais fácil desistir.
+
+Ser mulher em TI é:
+
+Entrar em salas onde você precisa provar mais que os outros
+Ouvir mais do que gostaria e falar mesmo assim
+Crescer mesmo quando duvidam da sua capacidade
+
+Mas também é:
+
+Inspirar outras mulheres
+Abrir caminhos
+Transformar histórias — inclusive a sua
+
+Hoje eu trabalho com Arquitetura de Dados e IA, usando tecnologias como AWS e Databricks para resolver problemas reais em grandes empresas.
+Mas o que mais me motiva não é só a tecnologia — é o impacto que ela gera na vida das pessoas.
+
+🚀 Por que isso importa?
+
+Porque ainda somos minoria.
+Porque ainda existe dúvida onde deveria existir reconhecimento.
+Porque ainda existem meninas achando que “isso não é pra elas”.
+
+E é exatamente por isso que a gente continua.
+
+🌱 Para quem está começando
+
+Se você está pensando em entrar na área:
+
+Você não precisa saber tudo.
+Você não precisa ser perfeita.
+Você só precisa começar.
+
+A tecnologia tem espaço pra você.
+E o mundo precisa da sua visão.
+
+✨ Meu compromisso
+
+Compartilhar conhecimento
+Ajudar quem está começando
+E mostrar, na prática, que é possível"
 }
 ```
 
@@ -101,3 +145,4 @@ Spill para disco:          1.8GB → 0 bytes
 <img src="https://komarev.com/ghpvc/?username=seu-usuario&color=FF6600&style=flat-square&label=visitas+no+perfil" />
 
 </div>
+
