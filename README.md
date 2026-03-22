@@ -54,7 +54,7 @@
 <a href="https://www.credly.com/earner/earned/share/39e2931e-e0b9-4ad3-b9ef-434453c88119"><img src="https://images.credly.com/size/110x110/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" width="90" title="Machine Learning Engineer Associate"/></a>
 <a href="https://www.credly.com/earner/earned/share/5412d893-078d-40a9-ad5d-df58573a3f42"><img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="90" title="Solutions Architect Associate"/></a>
 <a href="https://www.credly.com/earner/earned/share/e1733fe8-b9ff-4eee-aa02-5e7896e6e41f"><img src="https://images.credly.com/size/110x110/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="90" title="Solutions Architect Professional"/></a>
-<a href="https://www.credly.com/earner/earned/share/e06be73d-3d43-46f1-911d-9e0bd747ce84"><img src="https://images.credly.com/size/110x110/images/35d18649-95c6-4c78-b07a-cfc1362318f3/image.png" width="90" title="Data Analytics Specialty"/></a>
+<a href="https://www.credly.com/earner/earned/share/e06be73d-3d43-46f1-911d-9e0bd747ce84"><img src="https://images.credly.com/size/340x340/images/6430efe4-0ac0-4df6-8f1b-9559d8fcdf27/image.png" width="90" title="Data Analytics Specialty"/></a>
 <a href="https://www.credly.com/earner/earned/share/74d61a01-3cbe-4386-b21e-92a2ce771a6d"><img src="https://images.credly.com/size/110x110/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" width="90" title="Machine Learning Specialty"/></a>
 
 <br/><br/>
