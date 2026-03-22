@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Arquiteta+de+Solucoes+Data+%26+AI+%F0%9F%94%A5;15%2B+anos+com+dados;AWS+%2B+Databricks+%7C+11+certificacoes+%F0%9F%8F%86;Mae%2C+atleta+e+arquiteta+%F0%9F%92%9C" alt="Typing SVG" />
@@ -49,18 +51,18 @@
 <a href="https://www.credly.com/earner/earned/share/b7632d78-170b-40c4-acc2-0e5e15f9f20e"><img src="https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="90" title="AI Practitioner"/></a>
 <a href="https://www.credly.com/earner/earned/share/b50ea818-15a6-4725-b363-b832380eb701"><img src="https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="90" title="Developer Associate"/></a>
 <a href="https://www.credly.com/earner/earned/share/c3ce8232-4b16-4212-9b41-8d3c27a605ba"><img src="https://images.credly.com/size/110x110/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" width="90" title="Data Engineer Associate"/></a>
-<a href="https://www.credly.com/earner/earned/share/39e2931e-e0b9-4ad3-b9ef-434453c88119"><img src="https://images.credly.com/size/110x110/images/1a634b4e-8d27-4c1e-8e6e-4c9e7e4e4e4e/image.png" width="90" title="Machine Learning Engineer Associate"/></a>
+<a href="https://www.credly.com/earner/earned/share/39e2931e-e0b9-4ad3-b9ef-434453c88119"><img src="https://images.credly.com/size/110x110/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" width="90" title="Machine Learning Engineer Associate"/></a>
 <a href="https://www.credly.com/earner/earned/share/5412d893-078d-40a9-ad5d-df58573a3f42"><img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="90" title="Solutions Architect Associate"/></a>
 <a href="https://www.credly.com/earner/earned/share/e1733fe8-b9ff-4eee-aa02-5e7896e6e41f"><img src="https://images.credly.com/size/110x110/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="90" title="Solutions Architect Professional"/></a>
 <a href="https://www.credly.com/earner/earned/share/e06be73d-3d43-46f1-911d-9e0bd747ce84"><img src="https://images.credly.com/size/110x110/images/35d18649-95c6-4c78-b07a-cfc1362318f3/image.png" width="90" title="Data Analytics Specialty"/></a>
-<a href="https://www.credly.com/earner/earned/share/74d61a01-3cbe-4386-b21e-92a2ce771a6d"><img src="https://images.credly.com/size/110x110/images/778bde6a-5b7b-47db-b4a0-6b72b0e8f7a7/image.png" width="90" title="Machine Learning Specialty"/></a>
+<a href="https://www.credly.com/earner/earned/share/74d61a01-3cbe-4386-b21e-92a2ce771a6d"><img src="https://images.credly.com/size/110x110/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" width="90" title="Machine Learning Specialty"/></a>
 
 <br/><br/>
 
 **🧱 Databricks Certified — 2**
 
-<a href="https://www.credly.com/earner/earned/share/ff0bf7d3-4738-4dd9-9867-886371ec61ac"><img src="https://images.credly.com/size/110x110/images/5ca7b236-6105-4154-9571-b4d6a3a7b8a8/image.png" width="90" title="Databricks Data Engineer Associate"/></a>
-<a href="https://www.credly.com/earner/earned/share/c1137b65-e225-4d81-965f-9a219874a726"><img src="https://images.credly.com/size/110x110/images/7a5401a6-01eb-4f08-9b8e-b5b5b5b5b5b5/image.png" width="90" title="Databricks Data Engineer Professional"/></a>
+<a href="https://credentials.databricks.com/51dc4258-cedd-478f-af97-bbed226059ed"><img src="https://pdf.ms.credential.net/v2/certificate/image?env=production&credential=6le80g0o&variant=medium" width="90" title="Databricks Data Engineer Associate"/></a>
+<a href="https://credentials.databricks.com/f6a80c87-d7a5-490a-b800-ffa57da430e3"><img src="https://pdf.ms.credential.net/badge/image?env=production&credential=aeu2iziq" width="90" title="Databricks Data Engineer Professional"/></a>
 
 </div>
 
@@ -95,5 +97,3 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=MarcelaMonteiroMontenegroGallo&color=9B59B6&style=flat-square&label=visitas" />
 </div>
-
-
