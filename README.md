@@ -28,18 +28,45 @@
 ## 👩‍👦‍👦 Fora do trabalho
 
 ```
-👩‍👦‍👦  Mãe de dois filhos (um autista 💙)
-🌱  Mãe de plantas (algumas sobrevivem 😅)
-🐶  Mãe de pet
+👩‍👦‍👦  Mae de dois filhos (um autista 💙)
+🌱  Mae de plantas (algumas sobrevivem 😅)
+🐶  Mae de pet
 🏋️‍♀️  Academia pra descarregar o stress
 ```
 
-> *"Não é só sobre tecnologia — é sobre dar conta da vida inteira e ainda evoluir."*
+> *"Nao e so sobre tecnologia — e sobre dar conta da vida inteira e ainda evoluir."*
 > **E a gente vence. Todos os dias. 💪**
 
 ---
 
-## � Tech Stack
+## 🏆 Certificações
+
+<div align="center">
+
+**☁️ AWS Certified — 9**
+
+<a href="https://www.credly.com/earner/earned/share/03e97a5a-871d-4ec8-8f3b-977651f5a6c4"><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="90" title="Cloud Practitioner"/></a>
+<a href="https://www.credly.com/earner/earned/share/b7632d78-170b-40c4-acc2-0e5e15f9f20e"><img src="https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="90" title="AI Practitioner"/></a>
+<a href="https://www.credly.com/earner/earned/share/b50ea818-15a6-4725-b363-b832380eb701"><img src="https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="90" title="Developer Associate"/></a>
+<a href="https://www.credly.com/earner/earned/share/c3ce8232-4b16-4212-9b41-8d3c27a605ba"><img src="https://images.credly.com/size/110x110/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" width="90" title="Data Engineer Associate"/></a>
+<a href="https://www.credly.com/earner/earned/share/39e2931e-e0b9-4ad3-b9ef-434453c88119"><img src="https://images.credly.com/size/110x110/images/1a634b4e-8d27-4c1e-8e6e-4c9e7e4e4e4e/image.png" width="90" title="Machine Learning Engineer Associate"/></a>
+<a href="https://www.credly.com/earner/earned/share/5412d893-078d-40a9-ad5d-df58573a3f42"><img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="90" title="Solutions Architect Associate"/></a>
+<a href="https://www.credly.com/earner/earned/share/e1733fe8-b9ff-4eee-aa02-5e7896e6e41f"><img src="https://images.credly.com/size/110x110/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="90" title="Solutions Architect Professional"/></a>
+<a href="https://www.credly.com/earner/earned/share/e06be73d-3d43-46f1-911d-9e0bd747ce84"><img src="https://images.credly.com/size/110x110/images/35d18649-95c6-4c78-b07a-cfc1362318f3/image.png" width="90" title="Data Analytics Specialty"/></a>
+<a href="https://www.credly.com/earner/earned/share/74d61a01-3cbe-4386-b21e-92a2ce771a6d"><img src="https://images.credly.com/size/110x110/images/778bde6a-5b7b-47db-b4a0-6b72b0e8f7a7/image.png" width="90" title="Machine Learning Specialty"/></a>
+
+<br/><br/>
+
+**🧱 Databricks Certified — 2**
+
+<a href="https://www.credly.com/earner/earned/share/ff0bf7d3-4738-4dd9-9867-886371ec61ac"><img src="https://images.credly.com/size/110x110/images/5ca7b236-6105-4154-9571-b4d6a3a7b8a8/image.png" width="90" title="Databricks Data Engineer Associate"/></a>
+<a href="https://www.credly.com/earner/earned/share/c1137b65-e225-4d81-965f-9a219874a726"><img src="https://images.credly.com/size/110x110/images/7a5401a6-01eb-4f08-9b8e-b5b5b5b5b5b5/image.png" width="90" title="Databricks Data Engineer Professional"/></a>
+
+</div>
+
+---
+
+## 🔥 Tech Stack
 
 <div align="center">
 
@@ -68,29 +95,5 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=MarcelaMonteiroMontenegroGallo&color=9B59B6&style=flat-square&label=visitas" />
 </div>
-## 🏆 Certificações
 
-<div align="center">
-
-**AWS Certified — 9 certificações**
-
-| Foundational | Associate | Professional | Specialty |
-|:---:|:---:|:---:|:---:|
-| ☁️ Cloud Practitioner | 👩‍💻 Developer | 🏛️ Solutions Architect Pro | 📊 Data Analytics |
-| 🤖 AI Practitioner | 📦 Data Engineer | | 🧠 Machine Learning |
-| | 🤖 Machine Learning Engineer | | |
-| | 🏛️ Solutions Architect Associate | | |
-
-<br/>
-
-**Databricks Certified — 2 certificações**
-
-![Databricks](https://img.shields.io/badge/Data_Engineer_Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Databricks](https://img.shields.io/badge/Data_Engineer_Professional-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
 
