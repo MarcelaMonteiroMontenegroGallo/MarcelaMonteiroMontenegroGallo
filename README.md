@@ -15,7 +15,8 @@
 ## Sobre mim
 
 ```python
-marcela = {
+Marcela Monteiro Montenegro Gallo
+la = {
     "titulo":        "Arquiteta de Dados e AI",
     "experiencia":   "15+ anos com dados",
     "certificacoes": ["9x AWS", "2x Databricks"],
